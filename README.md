@@ -3,4 +3,4 @@ Using Snowflake SQL, I analyzed the most popular transportation types (measured 
 
 Tools Used:
 1. Snowflake
-2. SQL (Aliasing, SUM, ROUND, LIMIT, Grouping and Sorting)
+2. SQL (Aliasing, SUM, ROUND, LIMIT, Filtering, Grouping, and Sorting)
