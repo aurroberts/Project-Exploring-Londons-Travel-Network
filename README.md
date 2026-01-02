@@ -1,4 +1,4 @@
-# Project-Exploring-London-s-Travel-Network
+# Project-Exploring-Londons-Travel-Network
 Using Snowflake SQL, I analyzed the most popular transportation types (measured by the total number of journeys), which months and years were the most popular for the Emirates Airline, and the five years were the lowest volume of Underground & DLR journeys.
 
 Tools Used:
